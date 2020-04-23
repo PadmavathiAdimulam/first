@@ -1,7 +1,7 @@
 {
-  "name": "new",
+  "name": "confusion",
   "version": "1.0.0",
-  "description": "",
+  "description": "This is a website for Ristorante Con Fusion",
   "main": "index.html",
   "scripts": {
     "start": "npm run lite",
@@ -10,11 +10,7 @@
   },
   "author": "",
   "license": "ISC",
-  "devDependencies": {
-    "lite-server": "^2.5.4"
-  },
-  "dependencies": {
-    "jquery": "^3.3.1",
-    "popper.js": "^1.12.9"
+    "devDependencies": {
+    "lite-server": "^2.3.0"
   }
 }
